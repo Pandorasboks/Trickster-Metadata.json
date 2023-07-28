@@ -1,11 +1,6 @@
-{
-      "chainId": 101,
-      "address": "CMmWKKJU1EG9x8eg9bhiwS6f1QwC3x75n1mWPNhFherT",
-      "symbol": "TRXTR",
+    {
       "name": "Trickster",
-      "decimals": 9,
-      "logoURI": "https://github.com/Pandorasboks/Crypto/blob/main/Trickster.jpg",
-      "tags": [
-        "utility-Token"
-      ]
+      "symbol": "TRXTR",
+      "description": "Universe Conscious Coin",
+      "image": "https://github.com/Pandorasboks/Crypto/blob/main/Trickster.jpg"
     }
